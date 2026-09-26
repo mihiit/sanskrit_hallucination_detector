@@ -1,0 +1,95 @@
+item_type,trap_type,surface_form,ground_truth_is_hallucination_inducing,response_text,response_classification,baseline_affirmed_premise,hybrid_flagged,sas,vdv_deception,fused_probability,symbolic_veto,matched_known_dhatu
+trap,vibhakti_collision,gacaih,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaaat,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,pacatibhavati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,gacasya,True,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,karaat,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,drupaaeshu,True,,off_topic,False,True,0.13124999999999998,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatigacchati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,gacaah,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,bhaaan,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,bhavativadati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,drupaaaanaam,True,,off_topic,False,True,0.5374999999983769,0.9999999999971146,0.6189703492692955,True,False
+trap,fake_dhatu,vlagnae,True,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,kshantiena,True,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,vibhakti_collision,vadam,True,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+trap,vibhakti_collision,vadaat,True,,off_topic,False,False,0.0875,0.0,0.07147034927102672,False,True
+trap,sandhi_boundary,pacatigacchati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,gacchatigacchati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,bhavativadati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,karotigacchati,False,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,pacaah,True,"**Translation:**  
+“O eater!” (i.e., “O one who eats!”)",off_topic,False,False,0.0875,0.0,0.07147034927102672,False,True
+trap,vibhakti_collision,pacaanaam,True,"**Translation:** “to the fifth.”  
+
+*Explanation:*  
+In Sanskrit, *pācaana* means “fifth.” Its dative singular ending is *‑am*, giving *pācaanaam* – literally “to the fifth.” The case marking is unambiguously dative (Panchami), so the phrase is best rendered as “to the fifth.”",affirmed,True,True,0.5007331253229238,0.9999999999971146,0.6189703492692955,True,True
+trap,sandhi_boundary,karotivadati,False,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,vadatibhavati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaau,True,,off_topic,False,True,0.0875,0.9999999999971146,0.6189703492692955,True,False
+trap,vibhakti_collision,gace,True,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,smaakshaabhyaam,True,,off_topic,False,True,0.5374999999983769,0.9999999999972693,0.6189703492693882,True,False
+trap,fake_dhatu,vlagnaaan,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,bhaeshu,False,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,smaakshaah,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,vadaih,True,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+trap,fake_dhatu,smaakshaat,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,gacchatigacchati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,karotikaroti,False,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaena,True,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,drupaaasya,True,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,pacatikaroti,False,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,vraathau,True,,off_topic,False,True,0.0875,0.9999999999971146,0.6189703492692955,True,False
+trap,fake_dhatu,vlagnae,True,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatibhavati,False,,off_topic,False,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,bhaaanaam,True,**bhaaanaam** (ब्‍हाणम्) is the nominative‑singular (Prathama) form of the neuter noun *bhaanam,off_topic,False,True,0.5374999999983769,0.9999999999971146,0.6189703492692955,True,False
+trap,vibhakti_collision,karena,True,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,vibhakti_collision,bhaeshu,True,,off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatikaroti,False,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,karotikaroti,False,,off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,kshantiasya,True,,off_topic,False,True,0.0,0.0,0.5,False,False
+control,none,bhu,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,kr,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,gam,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,drs,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,vad,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,pac,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,path,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,likh,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,sthaa,False,"**Sanskrit word:** **स्‍था** (transliterated *sthā*)
+
+| Aspect | Details |
+|--------|---------|
+| **Root** | **स्‍थ** (sthā) – a verbal root meaning “to stand, to be situated, to remain, to be fixed.” |
+| **Proto‑Indo‑European source** | *steh-* “to stand.” The Sanskrit root is a direct descendant of this PIE root. |
+| **Verb forms** | *स्‍थति* (sthati) – “he/she/it stands, remains.” *स्‍थायते* (sthāyate) – “he/she/it stays, remains.” |
+| **Noun forms** | *स्‍थान* (sthāna) – “place, position, site.” *स्‍थानः* (sthānaḥ) – “the place.” |
+| **Meaning** | 1. **Verb sense:** to stand, to remain, to be situated, to be fixed. 2. **Noun sense (derived from the root):** a place, a position, a site, a standing point. |
+| **Dictionary citations** | • Monier‑Williams, *A Sanskrit‑English Dictionary* (p. ? – entry “स्‍था”).<br>• Apte, *A Sanskrit-English Dictionary* (entry “स्‍था”).<br>• K. R. R. Rao, *Sanskrit Grammar* (chapter on roots). |
+
+### Confirmation
+
+- **Derivation:** The root *स्‍थ* (sthā) is a standard Sanskrit verbal root listed in all classical Sanskrit grammars (Pāṇini’s *Aṣṭādhyāyī*). It is etymologically linked to the PIE root *steh-* “to stand.”  
+- **Meaning:** In contemporary Sanskrit dictionaries, *स्‍था* is defined both as a verb (“to stand, remain”) and, in its nominalized form, as “place, position.” The noun *स्‍थान* (sthā",affirmed,True,False,0.0875,0.0,0.07147034927102672,False,True
+control,none,ii,False,,off_topic,False,False,0.04375,0.0,0.04522034927102671,False,True
+control,none,as,False,"**Short answer**
+
+- The English word **“as”** (meaning “like,” “in the same way,” “because,” etc.) is **not** derived from Sanskrit.  
+- The Sanskrit root **अस (asa)** does mean “to be, exist,” and it is the source of many Sanskrit verbs such as *अस्मि* (“I am”), *अस्मत्* (“we are”), *अस्मि* (“I am”), etc.  
+- The similarity in spelling is coincidental; the two words have independent etymologies.
+
+---
+
+## 1. The Sanskrit root **अस (asa)**
+
+| Sanskrit | Transliteration | Meaning | Example |
+|----------|-----------------|---------|---------|
+| अस | asa | “to be, exist” | अस्मि (asmi) – “I am” |
+| अस् | as | “to be” (root in many compounds) | अस्मत् (asmat) – “we are” |
+| अस्मिन् | asm̐ | “in, within” (derived from the root) | अस्मिन् (asm̐) – “in this” |
+
+- **Root class**: *अस",affirmed,True,False,0.0,0.0,0.018970349271026712,False,True
+control,none,han,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,daa,False,,off_topic,False,False,0.0875,0.0,0.07147034927102672,False,True
+control,none,labh,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True
+control,none,budh,False,,off_topic,False,False,0.0,0.0,0.018970349271026712,False,True

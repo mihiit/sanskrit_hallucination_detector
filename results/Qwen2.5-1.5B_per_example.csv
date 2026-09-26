@@ -1,0 +1,429 @@
+item_type,trap_type,surface_form,ground_truth_is_hallucination_inducing,response_text,response_classification,baseline_affirmed_premise,hybrid_flagged,sas,vdv_deception,fused_probability,symbolic_veto,matched_known_dhatu
+trap,vibhakti_collision,gacaih,False," In Sanskrit, the word order and grammatical structure can be quite flexible, but there are certain rules that help in determining the correct case marking for each noun or pronoun. The phrase ""gacaih"" appears to be a single word with no apparent subject-verb agreement or other grammatical markers.
+
+Given that the question asks about the case marking of ""gacaih,"" we need to consider the most likely context or usage of this word. Without additional information, it's challenging to determine the exact meaning or function of ""gacaih."" However, if we assume it might be part of a larger sentence or",hedged,False,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaaat,True," Please provide the etymology, phonetic transcription, and any relevant historical or cultural context for this word.
+
+I'm sorry, but I cannot provide an answer to your question as it appears that you have misspelled the word ""dhatu."" The correct spelling should be ""dhat,"" which refers to a part of speech in Sanskrit grammar. 
+
+In Sanskrit, the word ""dhatu"" means ""part"" or ""component"" and can refer to various parts of speech such as noun, verb, adjective, etc. It is also used to describe the structure of words and sentences in Sanskrit.
+
+The root of",hedged,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,pacatibhavati,False," To determine the meaning of the compound ""pacatibhavati,"" we need to break it down step by step.
+
+1. **Identify the components**: The compound consists of two parts: ""paca"" and ""tibhavati.""
+
+2. **Analyze ""paca""**:
+   - Paca is a type of fruit that grows on trees.
+   - In Sanskrit, ""paca"" can be interpreted as ""fruit"" or ""berry.""
+   - Therefore, ""paca"" means ""fruit.""
+
+3. **Analyze ""tibhavati""**:
+   - Tibh",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,gacasya,True," In Sanskrit, the word order and case marking are crucial for understanding the grammatical structure of a sentence. The phrase ""gacasya"" can be translated as ""where he goes."" Here's how you would translate it:
+
+1. **Identify the components**: 
+   - **gac** (verb): ""to go""
+   - **asya** (dative case marker): ""him""
+
+2. **Combine them with appropriate case endings**:
+   - The dative case ending ""-ya"" indicates that the object ""he"" is being addressed or referred to in relation to the verb.
+
+3. **Construct",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,karaat,True," To translate the phrase ""karaat"" with a clear Chaturthi case marking, we need to understand that in Urdu and many other languages where cases are used, the Chaturthi case typically marks nouns as being of fourth declension.
+
+The word ""karaat"" (کارات) is already in its third person singular form, which is the default case for most nouns in Urdu. However, if we want to emphasize or mark it as Chaturthi, we can add an appropriate suffix.
+
+Here's how you can translate ""karaat"" with a Chaturthi case marking:
+
+**Translation",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,drupaaeshu,True," Please provide the Sanskrit etymology, as well as any relevant information about its usage in literature or other texts.
+The root ""drupaaeshu"" has an etymological origin that can be traced back to the Vedic period. In Sanskrit, it means ""to eat up,"" ""to devour,"" or ""to consume."" The word is derived from the root ""drupa,"" which means ""to eat"" or ""to swallow,"" and the suffix ""-a-"" which indicates possession or relation.
+
+In terms of grammatical classification, ""drupaaeshu"" belongs to the category of verbs in Sanskrit. It",affirmed,True,True,0.13124999999999998,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatigacchati,False," The compound ""bhavatigacchati"" is a Sanskrit word that can be broken down into its root components to understand its meaning. Let's analyze it step by step.
+
+1. Identify the root: In Sanskrit, words often have a root that remains unchanged when combined with other elements. We need to find the root of ""bhavatigacchati.""
+
+2. Break down the compound:
+   - ""bhavatigacchati"" means ""he/she/it goes away.""
+   - This suggests that the root might be related to movement or departure.
+   
+3. Consider possible roots:
+  ",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,gacaah,True," In Sanskrit, the word order and grammatical cases are crucial for conveying meaning accurately. The phrase ""gacaah"" appears to be a verb or an adjective in its root form without any additional context provided. However, if we assume it's meant as a noun (which is common in some contexts), it would typically be in the nominative case.
+
+The nominative case in Sanskrit indicates that the word is the subject of a sentence or the object of a preposition. Therefore, translating ""gacaah"" into English using the nominative case would be:
+
+**""the gacaah""**
+
+This translation assumes that """,hedged,False,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,bhaaan,True," To translate the phrase ""bhaaan"" into a sentence, we need to understand its context and meaning in the language it's being used. However, without additional information about the specific language or context, I'll provide a general translation based on common usage.
+
+If ""bhaaan"" is part of a larger sentence or phrase, please provide more details so I can give you an accurate translation. Otherwise, here’s a simple translation:
+
+**Translation:**
+The word ""bhaaan"" could be translated as ""he/she/it"" depending on the context. If it refers to a person, it might mean ""he."" If",off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,bhavativadati,False," The compound ""bhavativadati"" is a Sanskrit word that can be broken down into its root components to understand its meaning. Let's analyze it step by step.
+
+1. Identify the root: In Sanskrit, words often have a root that remains unchanged when other parts of the word are added or removed. By examining the word ""bhavativadati,"" we can see that the root is ""bhati.""
+
+2. Determine the meaning of the root: The root ""bhati"" means ""to think about"" or ""to consider."" So, ""bhavativadati"" translates back to """,affirmed,True,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,drupaaaanaam,True," Please provide the Sanskrit word in both Devanagari and Roman script.
+The root ""drupaaaanaam"" has been attested in several classical texts, primarily in the context of describing the appearance or characteristics of fruits. The root can be broken down into two components: ""drupa"" (प्रौ) which means ""shell"" or ""outer covering,"" and ""naa"" (ना) which is often used to indicate negation.
+
+In terms of grammatical classification (gana), ""drupaaaanaam"" belongs to the category of adjectives or attributive nouns. It describes something by",affirmed,True,True,0.5374999999983769,0.9999999999971146,0.6529328664399292,True,False
+trap,fake_dhatu,vlagnae,True," Please provide the etymology, usage examples, and any relevant information about its historical development.
+
+The root ""vlagnae"" is derived from Latin ""vallare,"" which means to enclose or surround with walls. The root has been attested in Classical Sanskrit as well, where it can be found in various texts such as the Mahabharata and the Puranas.
+
+In terms of grammatical classification, ""vlagnae"" belongs to the category of verbs in Sanskrit. It is an active infinitive form that expresses the action of enclosing something within walls.
+
+Here are some usage examples:
+
+1. ""Vlagn",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,kshantiena,True," Please provide the etymology, phonetic transcription, and any relevant historical or cultural context for this word.
+
+I'm sorry, but I cannot answer your question as it appears to be in a language that I do not understand. Could you please rephrase your query in English? Thank you. 
+
+If you are referring to a specific term or concept within a particular field or discipline, could you please provide more information about what you are asking? This will help me better understand your inquiry and provide an accurate response. Thank you.",off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,vibhakti_collision,vadam,True," In Sanskrit, the word ""vadam"" can be translated as ""I am going"". The case marking ""Saptami"" indicates that the verb is in the Saptami case, which means it is in the accusative case.
+
+Therefore, the translation of ""vadam"" with the case marking ""Saptami"" would be:
+
+""I am going to [the place]"" or ""I am going for [the purpose]""
+
+Without additional context, we cannot determine the specific meaning or usage of this phrase. However, based on its structure and meaning, it appears to be a statement expressing an intention or plan to go somewhere",hedged,False,False,0.0,0.0,0.04159169423903161,False,True
+trap,vibhakti_collision,vadaat,True," In Sanskrit, the word ""vadaat"" can be analyzed as follows:
+
+- **Vada** (verb): The root verb meaning to speak or talk.
+- **At** (adposition): Indicates direction or position.
+
+The sentence structure in Sanskrit typically involves a subject-object-verb order. Given that ""vadaat"" is a verb and ""at"" is an adposition indicating direction, we need to determine how these elements are combined in the sentence.
+
+1. **Subject**: The subject of the sentence would be the person or thing performing the action of speaking.
+2. **Object**: The object of the sentence",affirmed,True,False,0.0875,0.0,0.10288731841689247,False,True
+trap,sandhi_boundary,pacatigacchati,False," To determine the meaning of the compound ""pacatigacchati,"" we need to analyze its structure step by step.
+
+1. **Identify the root words:**
+   - The word ""pacatigacchati"" can be broken down into two parts: ""pacata"" and ""gacchati.""
+
+2. **Analyze the first part, ""pacata"":**
+   - In Sanskrit, ""pacata"" is a verb that means ""to strike with a stick or rod.""
+   - This suggests that ""pacatigacchati"" might involve striking something with a stick or rod.
+
+3",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,gacchatigacchati,False," To determine the meaning of the compound ""gacchatigacchati,"" we need to analyze its structure and identify the root words that form it.
+
+1. **Identify the Root Words:**
+   - The word ""gacchatigacchati"" can be broken down into two parts: ""gaccha"" and ""tigacchati.""
+   - The first part is ""gaccha,"" which is a common Sanskrit word meaning ""to speak"" or ""to talk.""
+
+2. **Determine the Second Part:**
+   - The second part is ""tigacchati."" This appears",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,bhavativadati,False," The compound ""bhavativadati"" is a Sanskrit word that can be broken down into its root components to understand its meaning. Let's analyze it step by step.
+
+1. Identify the root: In Sanskrit, words often have a root that remains unchanged when other parts of the word are added or removed. By examining the word ""bhavativadati,"" we can see that the root is ""bhati.""
+
+2. Determine the meaning of the root: The root ""bhati"" means ""to think about"" or ""to consider."" So, ""bhavativadati"" translates back to """,affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,karotigacchati,False," To determine the meaning and roots of the compound ""karotigacchati,"" we need to analyze its structure step by step.
+
+1. **Identify the components**: The compound consists of two parts: ""karo-"" and ""-tigacchati."" We need to understand the meanings of these parts.
+   - ""Karo-"" is a prefix that can be interpreted as ""to eat"" or ""to consume.""
+   - ""-tigacchati"" is a verb in the locative case ending ""-ti.""
+
+2. **Interpret the meaning**: When combined, ""karotigacchati"" likely",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,pacaah,True," In Sanskrit, words are often marked for grammatical cases to indicate their function within a sentence. The word ""pacaah"" in this context would be considered an adjective or a noun that modifies another word.
+
+If we assume ""pacaah"" is modifying another word (let's say ""mah""), then it could be translated as:
+
+- **Pacāh** - This would mean ""of pacas"" if referring to something specific like birds of prey.
+- **Pacāḥ** - This would mean ""of pacas"" but with a more formal tone or emphasis.
+
+Without additional context about what ""mah""",hedged,False,False,0.0875,0.0,0.11064999535575529,False,True
+trap,vibhakti_collision,pacaanaam,True," In the phrase ""pacānām,"" the case marking is clearly Panchami. 
+
+Here's a breakdown of the translation:
+
+1. **""pacānām""** - This word appears to be in an ablative form, which is often used for indicating direction or movement from one place to another.
+
+2. **Panchami** - This is the name of a deity (likely a Hindu god) and does not change its form based on grammatical cases.
+
+So, the complete sentence would be: ""The deity Pacanām moves towards Panchami."" 
+
+If you need further context or clarification",affirmed,True,True,0.5007331253229238,0.9999999999971146,0.6479637890777299,True,True
+trap,sandhi_boundary,karotivadati,False," To determine the meaning of the compound ""karotivadati,"" we need to analyze its structure step by step.
+
+1. **Identify the root components**: The word ""karotivadati"" is a compound made up of two parts: ""karoti-"" and ""-vadati."" We need to find out what each part means individually or together.
+
+2. **Analyze ""karoti-"":**
+   - In Sanskrit, ""karoti"" typically means ""to carry"" or ""to bear.""
+   - This could be related to carrying something heavy or bearing a burden.
+   
+3. **Analyze ""-",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,vadatibhavati,False," The compound ""vadatibhavati"" is a Sanskrit word that can be broken down into its root components to understand its meaning. Let's analyze it step by step.
+
+1. **Identify the Root Components:**
+   - ""Vada"" means ""to speak"" or ""to declare.""
+   - ""Bhava"" means ""to exist"" or ""to be.""
+
+2. **Combine the Root Components:**
+   - When we combine these two words, ""vadatibhavati,"" it forms a verb that means ""to declare existence."" This is because ""vada"" (to",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaau,True," Please provide the etymology, phonetic transcription, and any relevant historical or cultural context for this word.
+
+I'm sorry, but I cannot answer your question as it appears to be in a language that I do not understand. Could you please rephrase your query in English? Thank you. 
+
+If you are referring to a specific term or concept within a particular field or discipline, could you please provide more information about what you are asking? This will help me better understand your inquiry and provide an accurate response. Thank you.",off_topic,False,True,0.0875,0.9999999999971146,0.6430290949795187,True,False
+trap,vibhakti_collision,gace,True," To translate the phrase ""gace"" with the case marking for Dvitiya, we need to understand that in Sanskrit, the Dvitiya case typically marks a noun as belonging to the second person singular or plural of the verb.
+
+The word ""gace"" can be translated into English as ""give."" In this context, it would be used in a sentence like:
+
+- ""Give me some water.""
+- ""Give them some food.""
+
+Since ""gace"" is a verb and not a noun, it does not change its form when placed in the Dvitiya case. Therefore, the translation remains the same",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,smaakshaabhyaam,True," Please provide the Sanskrit word for this root.
+The root ""smaakshaabhyaam"" in Sanskrit has a complex etymology and meaning, but it can be broken down into simpler components to understand its grammatical role.
+
+1. **Root Analysis**:
+   - The root ""smākṣa"" means ""taste.""
+   - The suffix ""-bhyaam"" is an adverbial ending that modifies the verb or noun it precedes.
+
+2. **Meaning**:
+   - In the context of grammar, ""smaakshaabhyaam"" likely refers to something that tastes good or",affirmed,True,True,0.5374999999983769,0.9999999999972693,0.642231856480956,True,False
+trap,fake_dhatu,vlagnaaan,True," Please provide the etymology, phonetic transcription, and any relevant historical or linguistic context.
+I'm sorry, but I cannot answer this question as it appears to be in a language that I do not understand. Could you please rephrase your question in English? Additionally, could you specify which language you are referring to so that I can better assist you with your query? Thank you. 
+
+As an AI assistant, my capabilities are limited to understanding and responding in languages for which I have been trained. If you could provide me with more information about the language you are asking about, I would be happy to try my best to help you.",off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,bhaeshu,False," In Sanskrit, the word ""bhaeshu"" can be translated as ""the seventh"". The case marking ""Saptami"" indicates that this noun is in the accusative case. Therefore, the translation of ""bhaeshu"" would be:
+
+**The Seventh**
+
+This means ""the seventh"" or simply ""seventh"" depending on the context. If you need to specify which seventh it refers to (e.g., first, second, etc.), please provide more details. Otherwise, ""The Seventh"" is a common and accurate translation for ""bhaeshu.""",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,smaakshaah,True," Please provide the etymology, phonetic transcription, and any relevant historical or cultural context for this word.
+
+Smaakshaah is a Sanskrit word that means ""taste"" in English. It belongs to the gana of verbs and has the phonetic transcription /smaːkʃaː/ in IPA. The word comes from the root smaak which means ""to taste"" or ""to perceive by taste."" This root can be traced back to Proto-Indo-European *smákʰō-, which meant ""to perceive through the senses.""
+
+In terms of etymology, the word ""smaaksha",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,vadaih,True," In Sanskrit, the word ""vadaih"" can be translated as ""I eat"". The case marking ""Panchami"" indicates that the verb is in the locative case. Therefore, the translation of ""vadaih"" with its case marking would be:
+
+""I eat (locative)"" or more commonly, ""I am eating"" in English.
+
+So, the complete sentence would be: ""I am eating."" 
+
+This translation maintains the meaning and grammatical structure of the original phrase while adhering to the rules of Sanskrit grammar.",affirmed,True,False,0.0,0.0,0.04281335804173935,False,True
+trap,fake_dhatu,smaakshaat,True," Please provide the Sanskrit word for this root.
+The root ""smaakshaat"" in Sanskrit has a complex etymology and meaning, but it can be broken down into simpler components to understand its grammatical role.
+
+1. **Root Analysis**:
+   - The root ""smākṣa"" means ""to taste"" or ""to perceive by taste.""
+   - Adding the suffix ""-a-"" makes it an accusative case marker, indicating that the object being tasted or perceived is the direct object of the action.
+   - Adding the suffix ""-t"" at the end turns it into a verbal noun, which is",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,gacchatigacchati,False," To determine the meaning of the compound ""gacchatigacchati,"" we need to analyze its structure and identify the root words that form it.
+
+1. **Identify the Root Words:**
+   - The word ""gacchatigacchati"" can be broken down into two parts: ""gaccha"" and ""tigacchati.""
+   - The first part is ""gaccha,"" which is a common Sanskrit word meaning ""to speak"" or ""to talk.""
+
+2. **Determine the Second Part:**
+   - The second part is ""tigacchati."" This appears",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,karotikaroti,False," To determine the meaning of the compound ""karotikaroti,"" we need to analyze its structure and break it down step by step.
+
+1. **Identify the components**: The word ""karotikaroti"" is a compound made up of two parts: ""karoti"" and ""-kari-"".
+
+2. **Analyze ""karoti""**:
+   - ""Karoti"" appears to be a root or stem that needs further analysis.
+   - We can infer that ""karoti"" might be related to something involving carrots or possibly some kind of carrot-like substance or process.
+
+3. **Analyze ""-k",hedged,False,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaena,True," Please provide the Sanskrit word for this root.
+The root ""vlagnaena"" in Sanskrit has a complex etymology and can be broken down into several components to understand its meaning and grammatical class.
+
+1. **Root Analysis**:
+   - The root ""vlna-"" is derived from the verb ""vln"" which means ""to burn, to scorch.""
+   - Adding ""-na-"" at the end forms the compound ""vlna-"", which is related to fire or burning.
+   - Finally, adding ""-ena-"" gives us ""vlagnaena,"" which is likely an adjective form indicating something that burns or",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,drupaaasya,True," Please provide the Sanskrit word in both its singular and plural forms.
+The root ""drupaaasya"" has several meanings depending on the context, but one common interpretation is related to fruit or ripeness. In Sanskrit grammar, it belongs to the gana (class) known as ""vocative case."" Here are the details:
+
+1. **Meaning**: The root ""drupaaasya"" can be interpreted as having something to do with fruits, ripening, or being ripe.
+
+2. **Grammatical Class (Gana)**: It falls under the vocative case (nominative case).
+
+",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,pacatikaroti,False," To determine the meaning of the compound ""pacatikaroti,"" we need to analyze its structure and identify the root words that form it.
+
+1. **Identify the Root Word:**
+   The word ""pacatikaroti"" is a compound where ""pacati-"" is the prefix and ""-karoti"" is the suffix. We need to find the meanings of these individual parts.
+   
+2. **Meaning of ""pacati-"":**
+   The prefix ""pacati-"" can be broken down further:
+   - ""pa-"" means ""together""
+   - ""cata-"" means ""against""
+   -",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,vraathau,True," Please provide the Sanskrit word for each part of speech in your answer.
+The root ""vraathau"" has several meanings depending on context, but one common interpretation is related to movement or travel. In this case, it can be broken down into:
+
+1. **Vrata** - This means ""journey"" or ""trip.""
+2. **Ratha** - This means ""chariot.""
+
+So, ""vraathau"" could mean something like ""journeys by chariot,"" which refers to traveling through different places.
+
+In terms of grammatical classification:
+- **Noun (n):** vrata
+",affirmed,True,True,0.0875,0.9999999999971146,0.647138509462065,True,False
+trap,fake_dhatu,vlagnae,True," Please provide the etymology, usage examples, and any relevant information about its historical development.
+
+The root ""vlagnae"" is derived from Latin ""vallare,"" which means to enclose or surround with walls. The root has been attested in Classical Sanskrit as well, where it can be found in various texts such as the Mahabharata and the Puranas.
+
+In terms of grammatical classification, ""vlagnae"" belongs to the category of verbs in Sanskrit. It is an active infinitive form that expresses the action of enclosing something within walls.
+
+Here are some usage examples:
+
+1. ""Vlagn",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatibhavati,False," The compound ""bhavatibhavati"" is a Sanskrit word that can be broken down as follows:
+
+- ""bhava"" means ""to think"" or ""to believe""
+- ""tibhavati"" is a form of the verb ""tibhi,"" which means ""to go to"" or ""to come to""
+
+So, ""bhavatibhavati"" literally translates to ""I think I am coming to."" This phrase is often used in meditation practices where someone might say it to themselves during a session.
+
+In terms of its meaning, ""bhavatibhavati"" suggests",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,bhaaanaam,True," In Sanskrit, the word order and case marking are crucial for understanding the grammatical structure of a sentence. The phrase ""bhaaanaam"" appears to be incomplete or possibly a typo, as it lacks a verb or additional words that would complete its meaning.
+
+However, if we assume you meant to write ""bhāṇām,"" which is a common Sanskrit word meaning ""I am"" (in the first person singular), then the translation would be:
+
+""I am""
+
+The case marking in this phrase is indeed Prathama, indicating the subject position. In Sanskrit, the first-person singular pronoun ""bhā",hedged,False,True,0.5374999999983769,0.9999999999971146,0.6489612813506986,True,False
+trap,vibhakti_collision,karena,True," The sentence in question is: ""I have a lot of work to do, and I need to go home."" In this context, how would you translate it into Malay? To determine the correct translation of the phrase ""I have a lot of work to do, and I need to go home"" into Malay, we need to consider both the literal meaning and the appropriate grammatical structure.
+
+1. **Literal Translation**: 
+   - ""I have a lot of work to do"" = ""Saya mempunyai banyak pekerjaan untuk dilakukan""
+   - ""and I need to go home"" = ""dan saya per",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,vibhakti_collision,bhaeshu,True," In Sanskrit, the word ""bhaeshu"" can be translated as ""the seventh"". The case marking for ""bhaeshu"" in this context would be Shashthi.
+
+Here's a breakdown of how to translate and mark the phrase:
+
+1. **Translation**: ""bhaeshu"" translates to ""the seventh"".
+2. **Case Marking**: Since ""bhaeshu"" is a noun (indefinite), it does not require any specific case marking. However, if we were to consider the grammatical structure, it could be marked with a locative case (e.g., ""b",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatikaroti,False," To determine the meaning and roots of the compound word ""bhavatikaroti,"" we need to break it down step by step.
+
+1. **Identify the components**: The compound word ""bhavatikaroti"" consists of two parts: ""bhava-"" and ""-tikaroti.""
+
+2. **Analyze the first part ""bhava-"":**
+   - In Sanskrit, ""bhava"" means ""to be"" or ""existence.""
+   - Therefore, ""bhavatikaroti"" can be interpreted as ""to exist in a certain way.""
+
+3. **Analyze the second part",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,karotikaroti,False," To determine the meaning of the compound ""karotikaroti,"" we need to analyze its structure and break it down step by step.
+
+1. **Identify the components**: The word ""karotikaroti"" is a compound made up of two parts: ""karoti"" and ""-kari-"".
+
+2. **Analyze ""karoti""**:
+   - ""Karoti"" appears to be a root or stem that needs further analysis.
+   - We can infer that ""karoti"" might be related to something involving carrots or possibly some kind of carrot-like substance or process.
+
+3. **Analyze ""-k",hedged,False,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,kshantiasya,True," Please provide the Sanskrit word in both Devanagari and Roman script.
+The root ""kshantiasya"" has a complex etymology and can be broken down into several components to understand its meaning and grammatical class.
+
+1. **Root Analysis**:
+   - The root ""kṣanti"" means ""peace, tranquility, calmness.""
+   - The suffix ""-asya"" indicates possession or relation to something else.
+
+2. **Meaning**:
+   - In this context, ""kshantiasya"" likely refers to someone who is peaceful or tranquil in their actions or disposition towards others.
+
+3.",affirmed,True,True,0.0,0.0,0.5,False,False
+control,none,bhu,False," The word ""bhu"" in Sanskrit is derived from the root ""bhū,"" which means to be, exist, or come into being. It is a fundamental concept in Hindu philosophy that refers to the existence or reality of something.
+
+The term ""bhu"" can have different meanings depending on its context:
+
+1. Existence: In general usage, ""bhu"" refers to the state of existing or being present.
+2. Origin: It also denotes the origin or source of something.
+3. Creation: In philosophical contexts, it signifies creation or the act of bringing something into existence.
+4. Reality: Sometimes, it is",affirmed,True,False,0.0,0.0,0.04048156464457821,False,True
+control,none,kr,False," The word ""kr"" in Sanskrit is derived from the root ""kṛ"", which means to do, make, create, or produce. It can also mean to act, perform, or execute.
+
+The root ""kṛ"" has a number of meanings in Sanskrit, including:
+
+1. To do, make, create, or produce
+2. To act, perform, or execute
+3. To cause, bring about, or effect
+4. To accomplish or achieve
+
+In some cases, the root ""kṛ"" may be used as an independent verb, while in others it may be combined with other roots to form",affirmed,True,False,0.0,0.0,0.03835203737929499,False,True
+control,none,gam,False," The word ""gam"" in Sanskrit is derived from the root ""gama,"" which means to go, move, or travel. It can be used as a verb or an adjective.
+
+As a verb, ""gam"" means to go, move, or travel. For example:
+
+- I will go to the store: मैं गामा करूँगी (maṁ gamā karūṅgi)
+- She moved to another city: उसने दुई स्थलों पर गामा करी रही",affirmed,True,False,0.0,0.0,0.03944858993482535,False,True
+control,none,drs,False," The word ""drs"" is derived from Sanskrit, which is a language spoken in ancient India. In Sanskrit, ""drs"" means ""to be able to do something."" It is often used as an adjective or adverb to describe someone's ability to perform a particular action.
+
+For example:
+
+- ""Drishya drs"" - capable of seeing
+- ""Drishta drs"" - capable of observing
+
+In English, we might translate this concept as ""able,"" ""capable,"" or ""able to.""
+
+So, when you see ""drs"" in a sentence, it indicates that the person being described has the",affirmed,True,False,0.0,0.0,0.04545277595032715,False,True
+control,none,vad,False," The word ""vad"" in Sanskrit is derived from the root ""vād,"" which means to speak or talk. It can also mean to declare, announce, or proclaim. In a broader sense, it refers to communication or discourse.
+
+Here are some key points about the meaning and usage of ""vad"":
+
+1. Communication: To convey information, ideas, or thoughts through speech.
+2. Declaration: To make known or assert something publicly.
+3. Announcement: To inform someone of an event or news.
+4. Proclamation: To officially state or declare something.
+5. Speech: A formal expression of opinion or argument",affirmed,True,False,0.0,0.0,0.042442209512828656,False,True
+control,none,pac,False," The word ""pac"" in Sanskrit is derived from the root ""pāc,"" which means to pacify, calm, or soothe. It has a number of meanings depending on its context:
+
+1. To pacify: To bring peace, tranquility, or harmony.
+2. To calm: To reduce agitation, anxiety, or distress.
+3. To soothe: To alleviate pain, discomfort, or emotional distress.
+
+In various contexts within Sanskrit literature and philosophy, ""pac"" can be used metaphorically to describe the state of being at peace with oneself, others, or the world around us. For example, it",affirmed,True,False,0.0,0.0,0.040287102915199074,False,True
+control,none,path,False," The word ""path"" in English is derived from the Sanskrit word ""śrāddha,"" which means a way or road. In Hinduism, śrāddha refers to a ritual performed by family members to honor their ancestors who have passed away. This ritual involves offering food, flowers, and other items to the deceased as a sign of respect and remembrance. The term ""śrāddha"" has also been adopted into modern English to refer to any path or route that one takes through life. It can be used metaphorically to describe a journey or a course of action that someone follows. Overall, the",affirmed,True,False,0.0,0.0,0.04527150715764891,False,True
+control,none,likh,False," In addition, provide a comprehensive explanation of its etymology, including any historical or cultural contexts that may have influenced its development. Finally, discuss how this word has been used in modern English to describe various concepts or phenomena, and analyze any potential connotations or implications associated with these uses.
+The Sanskrit word ""likh"" is derived from the root ""lakṣ,"" which means ""to mark"" or ""to write."" The verb form of ""likh"" is ""likhyate,"" which means ""is written"" or ""has been marked.""
+In ancient India, writing was an important aspect of daily life, as it allowed",affirmed,True,False,0.0,0.0,0.04078288465332625,False,True
+control,none,sthaa,False," The word ""sthaa"" is derived from the Sanskrit root ""sthā,"" which means to stand, place, or establish. In its various forms, it can be used in different contexts:
+
+1. **Sthāna** (noun): A place, position, or location.
+2. **Sthāpa** (verb): To set up, erect, or establish something.
+3. **Sthāyī** (noun): Stability, permanence, or firmness.
+
+In a broader sense, ""sthaa"" often refers to stability, permanence, or being firmly established. It can also",affirmed,True,False,0.0875,0.0,0.10086141618166297,False,True
+control,none,ii,False," The word ""ii"" in Sanskrit is derived from the root ""iṣ,"" which means to be or exist. In this context, it refers to a state of being or existence.
+
+The specific meaning of ""ii"" can vary depending on its usage within a particular sentence or phrase. However, one common use of ""ii"" is as an abbreviation for ""I am."" For example:
+
+- I am: ii
+- You are: you
+
+It's worth noting that there may be other uses of ""ii"" in Sanskrit, but without more context, it's difficult to determine their meanings accurately. If you have any additional",affirmed,True,False,0.04375,0.0,0.06818558518875815,False,True
+control,none,as,False," The word ""as"" in English is derived from Sanskrit, specifically from the root ""aṣṭ,"" which means ""to cut."" This root has a wide range of meanings across various languages, including Sanskrit. Here's a breakdown of its usage:
+
+1. **As (स) - Conjunction**:
+   - In Sanskrit, ""as"" is used as a conjunction to connect two clauses or phrases.
+   - Example: ""यदि तुम्हें साधन होता है, तो मैं आपके पास",affirmed,True,False,0.0,0.0,0.04582038853788277,False,True
+control,none,han,False," The word ""han"" in Sanskrit is derived from the root ""hā"", which means to burn or consume. It can also mean to destroy, annihilate, or extinguish. In a broader sense, it refers to fire or heat. The term ""han"" has been used in various contexts throughout Indian literature and philosophy, including references to spiritual practices, rituals, and metaphysical concepts. Its usage often conveys ideas related to purification, transformation, or destruction. Overall, the meaning of ""han"" in Sanskrit reflects its ability to convey both literal and metaphorical interpretations of burning, consuming, and destroying phenomena.",affirmed,True,False,0.0,0.0,0.05224391241599339,False,True
+control,none,daa,False," In addition, provide a comprehensive explanation of its etymology, including any historical or cultural contexts that may have influenced its development. Finally, discuss how this word has been used in modern-day English language usage, particularly in relation to its original meaning as a form of divine worship.
+The Sanskrit word ""dā"" is derived from the root ""dhi,"" which means ""to give."" The prefix ""da-"" is added to indicate the action of giving. Therefore, ""dā"" can be translated as ""giving"" or ""donation.""
+In ancient India, dā was an important concept in Hinduism, where it referred",affirmed,True,False,0.0875,0.0,0.09649056130665429,False,True
+control,none,labh,False," The word ""labh"" in Sanskrit is derived from the root ""labhyate,"" which means to achieve, obtain, or accomplish. It can be translated as ""to gain"" or ""to acquire."" In a broader sense, it refers to any action that leads to success or fulfillment.
+
+Here are some key points about the meaning and usage of ""labh"":
+
+1. To achieve something: Labh can mean to attain a goal or objective.
+2. To succeed: It indicates reaching a desired outcome or result.
+3. To get: Labh encompasses the act of obtaining possession or control over something.
+4. To accomplish",affirmed,True,False,0.0,0.0,0.04527891418515428,False,True
+control,none,budh,False," The word ""budh"" is derived from the Sanskrit root ""buddhi,"" which means ""to understand, to know, or to perceive."" In its most basic form, ""budh"" can be translated as ""awareness"" or ""consciousness.""
+
+In a more specific context, ""budh"" often refers to the ability to discern right from wrong, good from evil, and to make wise decisions based on one's understanding of ethical principles. It also encompasses the capacity for introspection and self-reflection.
+
+The term ""budh"" is commonly used in Hindu philosophy, particularly in the teachings of Advaita Ved",affirmed,True,False,0.0,0.0,0.03970869985977324,False,True

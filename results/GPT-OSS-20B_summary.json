@@ -1,0 +1,15 @@
+{
+  "system_name": "GPT-OSS-20B",
+  "backend": "groq",
+  "model": "openai/gpt-oss-20b",
+  "n_trap_items": 45,
+  "n_control_items": 15,
+  "over_generation_rate": 0.0,
+  "syntactic_integrity": 0.0,
+  "off_topic_rate": 0.9777777777777777,
+  "false_positive_rate": 0.0,
+  "hybrid_precision": 0.5853658536585366,
+  "hybrid_recall": 0.8571428571428571,
+  "hybrid_f1": 0.6956521739130435,
+  "is_demo_data": false
+}

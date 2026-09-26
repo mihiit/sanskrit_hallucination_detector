@@ -1,0 +1,15 @@
+{
+  "system_name": "Allam-2-7B",
+  "backend": "groq",
+  "model": "allam-2-7b",
+  "n_trap_items": 45,
+  "n_control_items": 15,
+  "over_generation_rate": 0.7333333333333333,
+  "syntactic_integrity": 0.3111111111111111,
+  "off_topic_rate": 0.0,
+  "false_positive_rate": 0.0,
+  "hybrid_precision": 0.5853658536585366,
+  "hybrid_recall": 0.8571428571428571,
+  "hybrid_f1": 0.6956521739130435,
+  "is_demo_data": false
+}

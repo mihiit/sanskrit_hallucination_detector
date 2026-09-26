@@ -1,0 +1,15 @@
+{
+  "system_name": "GPT-2",
+  "backend": "hf",
+  "model": "gpt2",
+  "n_trap_items": 45,
+  "n_control_items": 15,
+  "over_generation_rate": 1.0,
+  "syntactic_integrity": 0.0,
+  "off_topic_rate": 0.1111111111111111,
+  "false_positive_rate": 0.06666666666666667,
+  "hybrid_precision": 0.5714285714285714,
+  "hybrid_recall": 0.8571428571428571,
+  "hybrid_f1": 0.6857142857142857,
+  "is_demo_data": false
+}

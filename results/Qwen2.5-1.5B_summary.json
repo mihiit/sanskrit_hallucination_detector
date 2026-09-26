@@ -1,0 +1,15 @@
+{
+  "system_name": "Qwen2.5-1.5B",
+  "backend": "hf",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "n_trap_items": 45,
+  "n_control_items": 15,
+  "over_generation_rate": 0.7333333333333333,
+  "syntactic_integrity": 0.17777777777777778,
+  "off_topic_rate": 0.08888888888888889,
+  "false_positive_rate": 0.0,
+  "hybrid_precision": 0.5853658536585366,
+  "hybrid_recall": 0.8571428571428571,
+  "hybrid_f1": 0.6956521739130435,
+  "is_demo_data": false
+}

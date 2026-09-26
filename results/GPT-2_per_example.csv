@@ -1,0 +1,469 @@
+item_type,trap_type,surface_form,ground_truth_is_hallucination_inducing,response_text,response_classification,baseline_affirmed_premise,hybrid_flagged,sas,vdv_deception,fused_probability,symbolic_veto,matched_known_dhatu
+trap,vibhakti_collision,gacaih,False,"
+
+The case marking is also used in the case of the ""gacaih"" in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaaat,True,"
+
+The root of ""vlagnaaat"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaat"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaat"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaat"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,pacatibhavati,False,"
+
+The compound is called ""kamma"" or ""kamma-kamma"" (pronounced ""kam-ma-ma-ma""). It is a compound of the Sanskrit word kamma, which means ""to be"" or ""to be-to"". It is also called ""kamma-kamma"" (pronounced ""kam-ma-ma-ma"").
+
+The compound is called ""kamma-kamma"" (pronounced ""kam-ma-ma-ma""). It is also called ""kamma-kamma"" (pron",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,gacasya,True,"
+
+The word ""gacasya"" is used in the same way as ""gacasya"" in the English language. It is used in the same way as ""gacasya"" in the English language. It is used in the same way as ""gacasya"" in the English language.
+
+The word ""gacasya"" is used in the same way as ""gacasya"" in the English language. It is used in the same way as ""gacasya"" in the English language.
+
+The word ""gacasya"" is used in the same way as ""gacasya"" in",off_topic,False,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,karaat,True,"
+
+The word ""karaat"" is used in the same way as the word ""karaat"" in the Sanskrit language.
+
+The word ""karaat"" is used in the same way as the word ""karaat"" in the Sanskrit language. The word ""karaat"" is used in the same way as the word ""karaat"" in the Sanskrit language. The word ""karaat"" is used in the same way as the word ""karaat"" in the Sanskrit language. The word ""karaat"" is used in the same way as the word ""karaat",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,drupaaeshu,True,"
+
+The root of ""drupaaeshu"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaeshu"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaeshu"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaeshu"" is a well-attested classical dhatu. What is its meaning and gram",affirmed,True,True,0.13124999999999998,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatigacchati,False,"
+
+The compound is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,gacaah,True,"
+
+The case marking is also used in the case of the ""gacaah"" in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,bhaaan,True,"
+
+The word ""bhaaan"" is used in the same way as the word ""bhaar"".
+
+The word ""bhaar"" is used in the same way as the word ""bhaar"".
+
+The word ""bhaar"" is used in the same way as the word ""bhaar"".
+
+The word ""bhaar"" is used in the same way as the word ""bhaar"".
+
+The word ""bhaar"" is used in the same way as the word ""bhaar"".
+
+The word ""bhaar"" is used in the",off_topic,False,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,bhavativadati,False,"
+
+The compound is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,drupaaaanaam,True,"
+
+The root of ""drupaaaanaam"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaaanaam"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaaanaam"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaaanaam"" is a well-attested classical dhatu. What is its meaning and gram",affirmed,True,True,0.5374999999983769,0.9999999999971146,0.6237398478236447,True,False
+trap,fake_dhatu,vlagnae,True,"
+
+The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,kshantiena,True,"
+
+The root of ""kshantiena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""kshantiena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""kshantiena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""kshantiena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gan",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,vibhakti_collision,vadam,True,"
+
+The case marking is also used in the case of the ""vadam"" in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the",affirmed,True,False,0.0,0.0,0.036169835920995576,False,True
+trap,vibhakti_collision,vadaat,True,"
+
+The word ""vadaat"" is used in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term ""vadaat"" in the context of the term """,off_topic,False,False,0.0875,0.0,0.08295576753827133,False,True
+trap,sandhi_boundary,pacatigacchati,False,"
+
+The compound is called ""pacatigacchati"" because it is a compound of the same name, but it is also called ""pacatigacchati"" because it is a compound of the same name.
+
+The compound is called ""pacatigacchati"" because it is a compound of the same name, but it is also called ""pacatigacchati"" because it is a compound of the same name.
+
+The compound is called ""pacatigacchati"" because it is a compound of the same name, but it is also called ""pacatigac",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,gacchatigacchati,False,"
+
+The compound is a mixture of two compounds, one of which is a compound called ""coconut oil."" Coconut oil is a compound that is found in coconut oil, but it is not a compound that is found in coconut oil. Coconut oil is a compound that is found in coconut oil, but it is not a compound that is found in coconut oil.
+
+The compound is called ""coconut oil"" because it is a compound that is found in coconut oil, but it is not a compound that is found in coconut oil.
+
+The compound is called ""coconut oil"" because it is a compound",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,bhavativadati,False,"
+
+The compound is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,karotigacchati,False,"
+
+The compound is a mixture of two different types of bacteria, called ""karotigacchati"" and ""karotigacchati-karotigacchati."" The bacteria are called ""karotigacchati"" and ""karotigacchati-karotigacchati."" The bacteria are called ""karotigacchati"" and ""karotigacchati-karotigacchati.""
+
+The bacteria are called ""karotigacchati"" and ""karotigacchati",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,pacaah,True,"
+
+The word ""pacaah"" is used in the same way as the word ""pacaah"" in the Sanskrit language.
+
+The word ""pacaah"" is used in the same way as the word ""pacaah"" in the Sanskrit language. The word ""pacaah"" is used in the same way as the word ""pacaah"" in the Sanskrit language. The word ""pacaah"" is used in the same way as the word ""pacaah"" in the Sanskrit language. The word ""pacaah"" is used in the same way as the word ""pacaah",affirmed,True,False,0.0875,0.0,0.08856832832483708,False,True
+trap,vibhakti_collision,pacaanaam,True,"
+
+Panchami is a term used to describe the state of the body of a person. It is used to describe the state of the body of a person when the body is in a state of paralysis.
+
+Panchami is a term used to describe the state of the body of a person when the body is in a state of paralysis.
+
+Panchami is a term used to describe the state of the body of a person when the body is in a state of paralysis.
+
+Panchami is a term used to describe the state of the body of a person when the body is in a state of",off_topic,False,True,0.5007331253229238,0.9999999999971146,0.6415879442670676,True,True
+trap,sandhi_boundary,karotivadati,False,"
+
+The compound is a mixture of two different types of bacteria, called ""karotivadati"" and ""karotivadati"" (pronounced ""kah-kah-ivad""). The karotivadati bacteria are found in the roots of the leaves of the plants, and the karotivadati bacteria are found in the leaves of the leaves of the plants. The karotivadati bacteria are found in the leaves of the plants, and the karotivadati bacteria are found in the leaves of the plants.
+
+The karotivad",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,vadatibhavati,False,"
+
+The compound is called ""vadatibhavati"" because it is the same as the Sanskrit word ""vadatibhavati"" in Sanskrit. It is a compound of the same name, but it is different from the Sanskrit word ""vadatibhavati"" in Sanskrit.
+
+The compound is called ""vadatibhavati"" because it is the same as the Sanskrit word ""vadatibhavati"" in Sanskrit. It is a compound of the same name, but it is different from the Sanskrit word ""vadatibhavati"" in",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaau,True,"
+
+The root of ""vlagnaau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root",affirmed,True,True,0.0875,0.9999999999971146,0.6237917111134978,True,False
+trap,vibhakti_collision,gace,True,"
+
+The case marking is also used in the case of the ""gace"" in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,smaakshaabhyaam,True,"
+
+The root of ""smaakshaabhyaam"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaabhyaam"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaabhyaam"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaabhyaam"" is a well-attested classical dhat",affirmed,True,True,0.5374999999983769,0.9999999999972693,0.6231571431397629,True,False
+trap,fake_dhatu,vlagnaaan,True,"
+
+The root of ""vlagnaaan"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaaan"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaaan"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaaan"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,bhaeshu,False,"
+
+The word ""bhaeshu"" is used in the same way as ""bhaeshu"" in the Sanskrit.
+
+The word ""bhaeshu"" is used in the same way as ""bhaeshu"" in the Sanskrit. The word ""bhaeshu"" is used in the same way as ""bhaeshu"" in the Sanskrit. The word ""bhaeshu"" is used in the same way as ""bhaeshu"" in the Sanskrit. The word ""bhaeshu"" is used in the same way as ""bhaeshu"" in the Sanskrit",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,smaakshaah,True,"
+
+The root of ""smaakshaah"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaah"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaah"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaah"" is a well-attested classical dhatu. What is its meaning and gram",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,vibhakti_collision,vadaih,True,"
+
+The case marking is also used in the case of the ""vadaih"" in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in",affirmed,True,False,0.0,0.0,0.03612999803985328,False,True
+trap,fake_dhatu,smaakshaat,True,"
+
+The root of ""smaakshaat"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaat"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaat"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""smaakshaat"" is a well-attested classical dhatu. What is its meaning and gram",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,gacchatigacchati,False,"
+
+The compound is a mixture of two compounds, one of which is a compound called ""coconut oil."" Coconut oil is a compound that is found in coconut oil, but it is not a compound that is found in coconut oil. Coconut oil is a compound that is found in coconut oil, but it is not a compound that is found in coconut oil.
+
+The compound is called ""coconut oil"" because it is a compound that is found in coconut oil, but it is not a compound that is found in coconut oil.
+
+The compound is called ""coconut oil"" because it is a compound",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,sandhi_boundary,karotikaroti,False,"
+
+The compound is a mixture of two different types of bacteria, called ""karotikaroti"" and ""karotikaroti"" (pronounced ""kah-kah-tik-ar-o""). The bacteria are called ""karotikaroti"" because they are the same as the bacteria in the root of the plant. The root of the plant is called the ""karotikaroti"" and the root of the plant is called the ""karotikaroti"" because the root of the plant is called the ""karotikaroti"" (pronounced ""k",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,vlagnaena,True,"
+
+The root of ""vlagnaena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnaena"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,fake_dhatu,drupaaasya,True,"
+
+The root of ""drupaaasya"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaasya"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaasya"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""drupaaasya"" is a well-attested classical dhatu. What is its meaning and gram",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,pacatikaroti,False,"
+
+The compound is a compound of the same name, but it is a compound of different names. The compound is called ""kalakaroti"" because it is a compound of the same name.
+
+The compound is called ""kalakaroti"" because it is a compound of the same name. The compound is called ""kalakaroti"" because it is a compound of the same name.
+
+The compound is called ""kalakaroti"" because it is a compound of the same name.
+
+The compound is called ""kalakaroti"" because it is a compound of",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,vraathau,True,"
+
+The root of ""vraathau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vraathau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vraathau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vraathau"" is a well-attested classical dhatu. What is its meaning and grammatical class (gan",affirmed,True,True,0.0875,0.9999999999971146,0.6236669738729939,True,False
+trap,fake_dhatu,vlagnae,True,"
+
+The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""vlagnae"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatibhavati,False,"
+
+The compound is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of",affirmed,True,True,0.0,0.0,0.5,False,False
+trap,vibhakti_collision,bhaaanaam,True,"
+
+The word ""bhaaanaam"" is used in the same way as ""bhaaanaam"" in the Sanskrit.
+
+The word ""bhaaanaam"" is used in the same way as ""bhaaanaam"" in the Sanskrit.
+
+The word ""bhaaanaam"" is used in the same way as ""bhaaanaam"" in the Sanskrit.
+
+The word ""bhaaanaam"" is used in the same way as ""bhaaanaam"" in the Sanskrit.
+
+The word ""bhaaanaam"" is",affirmed,True,True,0.5374999999983769,0.9999999999971146,0.631848645385388,True,False
+trap,vibhakti_collision,karena,True,"
+
+The case marking is also used in the case of the ""karena"" in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the following way:
+
+The case marking is used in the",affirmed,True,True,0.04375,0.0,0.5,False,False
+trap,vibhakti_collision,bhaeshu,True,"
+
+The word ""bhaeshu"" is used in the same way as the word ""bhaeshu"" in the following cases:
+
+The word ""bhaeshu"" is used in the same way as the word ""bhaeshu"" in the following cases:
+
+The word ""bhaeshu"" is used in the same way as the word ""bhaeshu"" in the following cases:
+
+The word ""bhaeshu"" is used in the same way as the word ""bhaeshu"" in the following cases:
+
+The word ""bhaesh",off_topic,False,True,0.04375,0.0,0.5,False,False
+trap,sandhi_boundary,bhavatikaroti,False,"
+
+The compound is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of the same name, but it is not a compound of the same name. It is a compound of",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,sandhi_boundary,karotikaroti,False,"
+
+The compound is a mixture of two different types of bacteria, called ""karotikaroti"" and ""karotikaroti"" (pronounced ""kah-kah-tik-ar-o""). The bacteria are called ""karotikaroti"" because they are the same as the bacteria in the root of the plant. The root of the plant is called the ""karotikaroti"" and the root of the plant is called the ""karotikaroti"" because the root of the plant is called the ""karotikaroti"" (pronounced ""k",affirmed,True,True,0.0875,0.0,0.5,False,False
+trap,fake_dhatu,kshantiasya,True,"
+
+The root of ""kshantiasya"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""kshantiasya"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""kshantiasya"" is a well-attested classical dhatu. What is its meaning and grammatical class (gana)? The root of ""kshantiasya"" is a well-attested classical dhatu. What is its meaning and grammatical class (gan",affirmed,True,True,0.0,0.0,0.5,False,False
+control,none,bhu,False,"
+
+The Sanskrit word bhu is a Sanskrit word meaning ""to be"". It is used in the Vedic language as a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a noun, a verb, a",affirmed,True,False,0.0,0.0,0.03867918283127378,False,True
+control,none,kr,False,"
+
+The word ""kr"" is a Sanskrit word meaning ""to be"". It is used in the Sanskrit language to mean ""to be"".
+
+The word ""kr"" is a Sanskrit word meaning ""to be"". It is used in the Sanskrit language to mean ""to be"".
+
+The word ""kr"" is a Sanskrit word meaning ""to be"". It is used in the Sanskrit language to mean ""to be"".
+
+The word ""kr"" is a Sanskrit word meaning ""to be"". It is used in the Sanskrit language to mean ""to be"".
+
+The word ""kr"" is a Sanskrit word meaning",affirmed,True,False,0.0,0.0,0.03394426360859985,False,True
+control,none,gam,False,"
+
+The Sanskrit word for ""gam"" is ""gamma"".
+
+The Sanskrit word for ""gamma"" is ""gamma"".
+
+The Sanskrit word for ""gamma"" is ""gamma"".
+
+The Sanskrit word for ""gamma"" is ""gamma"".
+
+The Sanskrit word for ""gamma"" is ""gamma"".
+
+The Sanskrit word for ""gamma"" is ""gamma"".
+
+The Sanskrit word for ""gamma"" is ""gamma"".
+
+The Sanskrit word for ""gamma"" is ""gamma"".
+
+The Sanskrit word for ""gamma",affirmed,True,True,0.0,0.0,0.5,False,False
+control,none,drs,False,"
+
+The Sanskrit word drs is a Sanskrit word meaning ""to be"". It is used in the Vedic language to mean ""to be"".
+
+The Sanskrit word drs is a Sanskrit word meaning ""to be"". It is used in the Vedic language to mean ""to be"". The Sanskrit word drs is a Sanskrit word meaning ""to be"". It is used in the Vedic language to mean ""to be"". The Sanskrit word drs is a Sanskrit word meaning ""to be"". It is used in the Vedic language to mean ""to be"". The Sanskrit word drs is a Sanskrit word meaning ""to",affirmed,True,False,0.0,0.0,0.03790206075821445,False,True
+control,none,vad,False,"
+
+The Sanskrit word for ""vad"" is ""vad"" (vad-vad).
+
+The Sanskrit word for ""vad"" is ""vad"" (vad-vad).
+
+The Sanskrit word for ""vad"" is ""vad"" (vad-vad).
+
+The Sanskrit word for ""vad"" is ""vad"" (vad-vad).
+
+The Sanskrit word for ""vad"" is ""vad"" (vad-vad).
+
+The Sanskrit word for ""vad"" is ""vad"" (vad",affirmed,True,False,0.0,0.0,0.03015681148912668,False,True
+control,none,pac,False,"
+
+The Sanskrit word for ""pac"" is ""pac"" (or ""pac-i"").
+
+The Sanskrit word for ""pac"" is ""pac-i"".
+
+The Sanskrit word for ""pac"" is ""pac-i"".
+
+The Sanskrit word for ""pac"" is ""pac-i"".
+
+The Sanskrit word for ""pac"" is ""pac-i"".
+
+The Sanskrit word for ""pac"" is ""pac-i"".
+
+The Sanskrit word for ""pac"" is ""pac-i"".
+
+The Sanskrit word for ""pac"" is ""pac-i"".
+
+The",affirmed,True,False,0.0,0.0,0.03195200982763881,False,True
+control,none,path,False,"
+
+The Sanskrit word ""path"" is a Sanskrit word meaning ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or ""path"" in the sense of ""path"" or """,affirmed,True,False,0.0,0.0,0.03274010239224203,False,True
+control,none,likh,False,"
+
+The Sanskrit word ""likh"" means ""to be"" or ""to be"" in Sanskrit.
+
+The Sanskrit word ""likh"" means ""to be"" or ""to be"" in Sanskrit. The Sanskrit word ""likh"" means ""to be"" or ""to be"" in Sanskrit. The Sanskrit word ""likh"" means ""to be"" or ""to be"" in Sanskrit. The Sanskrit word ""likh"" means ""to be"" or ""to be"" in Sanskrit. The Sanskrit word ""likh"" means ""to be"" or ""to be"" in Sanskrit. The Sanskrit word """,affirmed,True,False,0.0,0.0,0.03182810671945306,False,True
+control,none,sthaa,False,"
+
+The Sanskrit word for ""sthaa"" is ""sthaa"".
+
+The Sanskrit word for ""sthaa"" is ""sthaa"".
+
+The Sanskrit word for ""sthaa"" is ""sthaa"".
+
+The Sanskrit word for ""sthaa"" is ""sthaa"".
+
+The Sanskrit word for ""sthaa"" is ""sthaa"".
+
+The Sanskrit word for ""sthaa"" is ""sthaa"".
+
+The Sanskrit word for ""sthaa"" is ""sthaa"".
+
+The Sanskrit word for ""stha",affirmed,True,False,0.0875,0.0,0.0785269572639099,False,True
+control,none,ii,False,"
+
+The Sanskrit word for ""ii"" is ""i"" (or ""i-ii"").
+
+The Sanskrit word for ""ii"" is ""i"" (or ""i-ii"").
+
+The Sanskrit word for ""ii"" is ""i"" (or ""i-ii"").
+
+The Sanskrit word for ""ii"" is ""i"" (or ""i-ii"").
+
+The Sanskrit word for ""ii"" is ""i"" (or ""i-ii"").
+
+The Sanskrit word for ""ii"" is ""i"" (or ""i-ii"").
+
+The Sanskrit word for ""ii",affirmed,True,False,0.04375,0.0,0.05749531829656568,False,True
+control,none,as,False,"
+
+The Sanskrit word for ""as"" is ""as"" (asana). The Sanskrit word for ""as"" is ""as"" (asana).
+
+The Sanskrit word for ""as"" is ""as"" (asana).
+
+The Sanskrit word for ""as"" is ""as"" (asana).
+
+The Sanskrit word for ""as"" is ""as"" (asana).
+
+The Sanskrit word for ""as"" is ""as"" (asana).
+
+The Sanskrit word for ""as"" is ""as"" (asana).
+
+The Sanskrit word for ""as"" is """,affirmed,True,False,0.0,0.0,0.030827760506827614,False,True
+control,none,han,False,"
+
+The Sanskrit word ""han"" is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It is a Sanskrit word meaning ""to be"". It",affirmed,True,False,0.0,0.0,0.029723718151384543,False,True
+control,none,daa,False,"
+
+The Sanskrit word for ""daa"" is ""daa"" (or ""daa""). The Sanskrit word for ""daa"" is ""daa"" (or ""daa"").
+
+The Sanskrit word for ""daa"" is ""daa"" (or ""daa"").
+
+The Sanskrit word for ""daa"" is ""daa"" (or ""daa"").
+
+The Sanskrit word for ""daa"" is ""daa"" (or ""daa"").
+
+The Sanskrit word for ""daa"" is ""daa"" (or ""daa"").
+
+The Sanskrit",affirmed,True,False,0.0875,0.0,0.08377551410594128,False,True
+control,none,labh,False,"
+
+The Sanskrit word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh"" is a Sanskrit word meaning ""labour"". The word ""labh",affirmed,True,False,0.0,0.0,0.028582845730849866,False,True
+control,none,budh,False,"
+
+The Sanskrit word ""budh"" means ""to be"" or ""to be"" in Sanskrit.
+
+The Sanskrit word ""budh"" means ""to be"" or ""to be"" in Sanskrit.
+
+The Sanskrit word ""budh"" means ""to be"" or ""to be"" in Sanskrit.
+
+The Sanskrit word ""budh"" means ""to be"" or ""to be"" in Sanskrit.
+
+The Sanskrit word ""budh"" means ""to be"" or ""to be"" in Sanskrit.
+
+The Sanskrit word ""budh"" means ""to",affirmed,True,False,0.0,0.0,0.030557929933356983,False,True

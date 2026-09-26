@@ -1,0 +1,15 @@
+{
+  "system_name": "Llama-3.1-8B-Ollama",
+  "backend": "ollama",
+  "model": "llama3.1:8b",
+  "n_trap_items": 90,
+  "n_control_items": 30,
+  "over_generation_rate": 1.0,
+  "syntactic_integrity": 0.011111111111111112,
+  "off_topic_rate": 0.05555555555555555,
+  "false_positive_rate": 0.0,
+  "hybrid_precision": 0.6235294117647059,
+  "hybrid_recall": 0.9298245614035088,
+  "hybrid_f1": 0.7464788732394366,
+  "is_demo_data": false
+}
