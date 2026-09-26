@@ -1,0 +1,18 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+settings_local.py
+.env
+
+# Locally supplied research-grade lexicon (not shipped — see README)
+data/resources/*.json
+
+# Evaluation outputs — regenerate with scripts/run_evaluation.py and
+# scripts/generate_figures.py rather than committing them; results
+# depend on which live model you ran against and when.
+results/
+figures/
+
+.DS_Store

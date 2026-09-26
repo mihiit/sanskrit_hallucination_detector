@@ -1,0 +1,14 @@
+pytest>=7.4.0
+anthropic>=0.34.0
+openai>=1.40.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
+pandas>=2.1.0                # for scripts/generate_figures.py
+matplotlib>=3.8.0            # for scripts/generate_figures.py
+
+# Optional — only needed if you use the corresponding client in
+# core/llm_clients.py. Install just the one(s) you need:
+groq>=0.11.0                # for GroqLLMClient (free-tier hosted Llama)
+requests>=2.31.0            # for OllamaLLMClient (local, free)
+transformers>=4.44.0        # for HFLocalLLMClient (local GPT-2 / Qwen, free)
+torch>=2.2.0                # for HFLocalLLMClient
